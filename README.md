@@ -2,6 +2,10 @@
 
 Este projeto consiste em uma página HTML simples que exibe uma contagem regressiva para o final do ano de 2023, utilizando JavaScript para calcular os dias, horas, minutos e segundos restantes.
 
+## Visualização
+
+![Brown Modern Visit Our Website Video Instagram Post](https://github.com/naillath/countdown-2023/assets/126177239/45c807b3-e90f-4abe-acb5-ee7fd3c43881)
+
 ## Estrutura do Projeto
 
 O projeto é composto por três arquivos principais:
@@ -30,10 +34,6 @@ Para utilizar este projeto, basta abrir o mesmo, utilizando o link que está log
 - CSS
 - JavaScript
 - Ionicons (para exibição de ícones na contagem regressiva)
-
-## Visualização
-
-![Screenshot](screenshot.png)
 
 ## Contribuição
 
