@@ -6,11 +6,12 @@
     box-sizing: border-box;
     font-family: 'Black Ops One';
     color: #ffffffe5;
+    text-shadow: 0.1rem 0.1rem 0.2rem black;
 }
 
 body {
     background-color: black;
-    background-image: url("../img/background02.jpg");
+    background-image: url("../img/background.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -53,10 +54,28 @@ div {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    margin-bottom: 1%;
+}
+
+.rodape {
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+}
+
+.rodape p {
+    font-size: 1.25rem;
+    text-align: center;
 }
 
 @media (max-width: 600px) {
     div {
         width: 90%;
+    }
+}
+
+@media (max-width: 400px) {
+    div {
+        width: 98%;
     }
 }
