@@ -72,6 +72,10 @@ div {
     div {
         width: 90%;
     }
+
+    .rodape p {
+        font-size: 1rem;
+    }
 }
 
 @media (max-width: 400px) {
