@@ -78,4 +78,8 @@ div {
     div {
         width: 98%;
     }
+
+    .rodape p {
+        font-size: 1rem;
+    }
 }
